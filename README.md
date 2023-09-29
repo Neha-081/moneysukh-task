@@ -6,7 +6,7 @@ This React.js project is designed to measure various statistical data for the Da
 
 ## Demo
 
-Link - 
+Link - moneysukh-task.vercel.app
 
 # Technology
 
